@@ -1,2 +1,7 @@
 The following text is sample text for part 3 of my first 180DA lab.
 
+For git add,commit,push use:
+(**make sure you cd and start virtual environment before this**)
+$git add <filename>
+$git commit -m <filename>
+$git push
