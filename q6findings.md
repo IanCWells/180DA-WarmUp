@@ -24,7 +24,7 @@ with a background that is dark or contrasting the red color, the image tracking 
 
 3) Color Picker
 
-<img width="1269" alt="Screen Shot 2024-01-17 at 6 59 04 PM" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/c390d20d-2950-48e9-9b7e-8c2b82f4e465">
+<img width="766" alt="Screen Shot 2024-01-17 at 7 06 34 PM" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/34f6a0be-4eaf-4eba-b1db-b804064733bc">
 
 Changing the brightness of the screen can dramatically affect the way the computer senses the color on the screen.  
 Making a small range can be quite difficult as the actual color emmitted by the phone is quite different than the color HSV value that the camera detects. 
