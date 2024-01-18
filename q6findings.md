@@ -30,9 +30,12 @@ Changing the brightness of the screen can dramatically affect the way the comput
 Making a small range can be quite difficult as the actual color emmitted by the phone is quite different than the color HSV value that the camera detects. 
 
 4) Dominant Color Code
+<img width="1269" alt="Screen Shot 2024-01-18 at 2 00 56 AM" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/be9efda3-5a96-40fd-a877-d93cad4d5ecc">
+
+<img width="1269" alt="Screen Shot 2024-01-18 at 2 02 36 AM" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/e1ee3bc4-399e-495d-af1e-6e94ebb533c3">
 
    Placing the red object in the center changes the dominant color of whatever is inside the rectangle.
    Depending on where the object is in proximity to the center of the rectangle will determine much the dominant color changes.
 
-   Using the phone and adjusting the brightness had a similar affect on the dominant color, though it was found that the color       displayed on the screen varied more dramatically than the color on screen after the object-test.  Perhaps this is suggesting      that projects with real elements are more easily tracked.  
+   Using the phone and adjusting the brightness had a similar affect on the dominant color, though it was found that the color       displayed on the screen varied more dramatically than the color on screen after the object-test.  Perhaps this is suggesting      that simple, non contoured objects with defined color are easier to track that objects with shadows etc.  
    
