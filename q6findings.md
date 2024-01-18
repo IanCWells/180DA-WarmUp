@@ -4,6 +4,7 @@ thus making image tracking slightly easier when dealing with shadows and differe
 Therefore, we typically want to use HSV over RGB when tracking based off of color.  
 
 Threshold Range:
+  
     # lower boundary RED color range values; Hue (0 - 10)
     lower1 = np.array([0, 100, 20])
     upper1 = np.array([10, 255, 255])
@@ -15,14 +16,17 @@ Threshold Range:
 These are the color ranges and thresholds I used to create a mask for red coloration.  
 They do a good job tracking reds and I can spot a waterbottle moving accross the screen.  
 
+<img width="1269" alt="Screen Shot 2024-01-17 at 7 00 27 PM" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/160221b4-2e65-4778-8932-5aa537224b87">
+
 2) Lighting Condition
 When my red waterbottle is being tracked in good lighting, lamp directly lighting the bottle, 
 with a background that is dark or contrasting the red color, the image tracking is easier to handle.
 
 3) Color Picker
 
+<img width="1269" alt="Screen Shot 2024-01-17 at 6 59 04 PM" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/c390d20d-2950-48e9-9b7e-8c2b82f4e465">
+
 Changing the brightness of the screen can dramatically affect the way the computer senses the color on the screen.  
 Making a small range can be quite difficult as the actual color emmitted by the phone is quite different than the color HSV value that the camera detects. 
-
 
 4) 
