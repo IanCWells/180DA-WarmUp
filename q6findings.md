@@ -29,4 +29,10 @@ with a background that is dark or contrasting the red color, the image tracking 
 Changing the brightness of the screen can dramatically affect the way the computer senses the color on the screen.  
 Making a small range can be quite difficult as the actual color emmitted by the phone is quite different than the color HSV value that the camera detects. 
 
-4) 
+4) Dominant Color Code
+
+   Placing the red object in the center changes the dominant color of whatever is inside the rectangle.
+   Depending on where the object is in proximity to the center of the rectangle will determine much the dominant color changes.
+
+   Using the phone and adjusting the brightness had a similar affect on the dominant color, though it was found that the color       displayed on the screen varied more dramatically than the color on screen after the object-test.  Perhaps this is suggesting      that projects with real elements are more easily tracked.  
+   
