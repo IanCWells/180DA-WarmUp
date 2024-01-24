@@ -3,6 +3,8 @@
 The above shows two terminal communications hosted on my own laptop computer.  
 The topic is the same as the standard for the class, often the subscriber will recieve messages from different publishers.  
 
+
+
 <img width="1130" alt="Incrementing a Counter" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/91ad772a-5744-461d-a62a-f3569c6ae318">
 The above shows implementation of a counter variable.  Each time a message is published, the subscriber saves the message as an integer and increments the count by 1. 
 
