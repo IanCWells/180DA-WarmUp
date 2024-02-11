@@ -1,8 +1,10 @@
+#modified code 
+#from https://realpython.com/python-speech-recognition/#putting-it-all-together-a-guess-the-word-game
+
 import random
 import time
 
 import speech_recognition as sr
-
 
 def recognize_speech_from_mic(recognizer, microphone):
     """Transcribe speech from recorded from `microphone`.
@@ -54,7 +56,7 @@ def recognize_speech_from_mic(recognizer, microphone):
 
 if __name__ == "__main__":
     # set the list of words, maxnumber of guesses, and prompt limit
-    WORDS = ["dog", "cat"]
+    WORDS = ["the boy ran fast if you can talk quiet please be quiet", "the boy ran slow"]
     NUM_GUESSES = 3
     PROMPT_LIMIT = 5
 
