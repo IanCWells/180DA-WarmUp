@@ -27,7 +27,7 @@ with a background that is dark or contrasting the red color, the image tracking 
 <img width="766" alt="Screen Shot 2024-01-17 at 7 06 34 PM" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/34f6a0be-4eaf-4eba-b1db-b804064733bc">
 
 Changing the brightness of the screen can dramatically affect the way the computer senses the color on the screen.  
-Making a small range can be quite difficult as the actual color emmitted by the phone is quite different than the color HSV value that the camera detects. 
+Making a small range can be quite difficult as the actual color emmitted by the phone is different than the color HSV value that the camera detects. 
 
 4) Dominant Color Code
 <img width="1269" alt="Screen Shot 2024-01-18 at 2 00 56 AM" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/be9efda3-5a96-40fd-a877-d93cad4d5ecc">
