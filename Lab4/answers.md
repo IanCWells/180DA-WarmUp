@@ -16,7 +16,7 @@ Task 2:
 
 <img width="200" alt="Screen Shot 2024-02-19 at 2 52 16 PM" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/d5ec1c07-625b-4662-acb8-2250e6b98ff3">
 
-Above is the wifi connection used in task 2.
+Above is the wifi connection used in task 2.  The IP address and wifi are not shared in the screenshots. 
 
 
 
