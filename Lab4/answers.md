@@ -23,7 +23,8 @@ Task 3:
 <img width="400" alt="Lab4IMU" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/48863919-d3e1-464d-a7df-d9e07df7be7c">
 
 Above is the screenshot of the terminal printout of the MQTT connection.  
-Ways to reduce lag include reducing the amount of readings taken, increasing delay in between readings, sending smaller messages accross the MQTT protocal.  
+Ways to reduce lag include reducing the amount of readings taken, increasing delay in between readings, sending smaller messages accross the MQTT protocal. 
+Some ways to get around lag will include incorperation of a turn based system and making our IMU take acceleration values less frequently.  
 
 
 
