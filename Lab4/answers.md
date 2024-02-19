@@ -18,6 +18,11 @@ Task 2:
 
 Above is the wifi connection used in task 2.  The IP address and wifi are not shared in the screenshots. 
 
+Task 3:
+
+<img width="561" alt="Lab4IMU" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/48863919-d3e1-464d-a7df-d9e07df7be7c">
+
+Above is the screenshot of the terminal printout of the MQTT connection.  
 
 
 
