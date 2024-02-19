@@ -20,9 +20,11 @@ Above is the wifi connection used in task 2.  The IP address and wifi are not sh
 
 Task 3:
 
-<img width="561" alt="Lab4IMU" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/48863919-d3e1-464d-a7df-d9e07df7be7c">
+<img width="400" alt="Lab4IMU" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/48863919-d3e1-464d-a7df-d9e07df7be7c">
 
 Above is the screenshot of the terminal printout of the MQTT connection.  
+Ways to reduce lag include reducing the amount of readings taken, increasing delay in between readings, sending smaller messages accross the MQTT protocal.  
+
 
 
 
