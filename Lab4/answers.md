@@ -4,6 +4,20 @@ Task 1:
 
 The above image shows the microcontroller's response to the blink example code. 
 
-<img width="1440" alt="IMU lab4" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/e69f5386-161b-47b0-a678-d1757531d199">
+<img width="400" alt="IMU lab4" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/e69f5386-161b-47b0-a678-d1757531d199">
 
 Above are the IMU printouts for the second pazrt of task 1. 
+
+Baseline script is referenced in the header comments of the IMU code labeled "ex.ino"
+
+Task 2:
+
+<img width="200" alt="Screen Shot 2024-02-19 at 2 52 10 PM" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/45073cc6-55da-4557-b1c1-8255a2d61924">
+
+<img width="200" alt="Screen Shot 2024-02-19 at 2 52 16 PM" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/d5ec1c07-625b-4662-acb8-2250e6b98ff3">
+
+Above is the wifi connection used in task 2.
+
+
+
+
