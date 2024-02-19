@@ -26,6 +26,11 @@ Above is the screenshot of the terminal printout of the MQTT connection.
 Ways to reduce lag include reducing the amount of readings taken, increasing delay in between readings, sending smaller messages accross the MQTT protocal. 
 Some ways to get around lag will include incorperation of a turn based system and making our IMU take acceleration values less frequently.  
 
+Task 4:
 
+<img width="400" alt="LAb4Forwards" src="https://github.com/IanCWells/180DA-WarmUp/assets/97809757/04bcac6a-17d0-4c66-8516-9b73e7bf9c95">
+
+Above is the terminal output of the implementation of a basic directional monitor.  
+It outputs forwards or backwards based on what direction the IMU is moving. 
 
 
